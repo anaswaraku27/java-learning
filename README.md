@@ -1,5 +1,4 @@
-# java-learning
-Java programs and practice exercises created during my learning journey
+
 # Java Learning
 
 Welcome to my Java Learning repository.
